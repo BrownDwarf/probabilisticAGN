@@ -6,7 +6,7 @@ This directory houses interactive Jupyter notebooks used in this research.
 ### Table of Contents
 
 
-0. Overview of goals and introduction to methods  
+0. Introduction of K2, AGN, and time series
   - Introduction to AGN analysis
   - FFT versus Lomb-Scargle and PSD normalization
   - The effect of missing data on the PSD
@@ -33,7 +33,7 @@ This directory houses interactive Jupyter notebooks used in this research.
   - Extra slope artifact in steep, noise-free powerlaws
 
 
-3. K2 long-term instrumental signals  
+3. K2 instrumental signals  
   - Getting the PSD of the instrumental artifacts I: empty pixels
   - Getting the PSD of the instrumental artifacts II: Flat sources
   - Towards an artifact kernel
